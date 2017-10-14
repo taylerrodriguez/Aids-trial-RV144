@@ -51,6 +51,7 @@ The plot is showing how a group of 16,000 people were distributed into two evenl
 ```{r}
 barchartGC(results,type = "percent")
 ```
+If the same number were correct, saying that the group had the same amount of people then the precentages should be about the same, but because there is a significant diiference between these two groups it shows us that something isn't right. The numbers on the left represent the amount of people that had these injections with eithera placebo or a vaccine and didn't have aids. The bar chart on the right represents the number of people that had the vaccines and placebos that that has aids. They should be the same but because they are not it shows us that something is not right. 
 
 ### Numerical Results
 
