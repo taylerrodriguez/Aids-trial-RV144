@@ -45,7 +45,7 @@ rownames(results) <- c("none","aids")
 
 ## Results
 <!-- You are to add descriptive comments to explain to the reader what the plot is showing !-->
-
+The plot is showing how a group of 16,000 people were distributed into two evenly different groups. Both groups were tested for aids. One groups was injected with a vaccine against aids. The other groups was injected with a placebo which was a saline solution. The people getting injecting the solutions and the actual patients were not informed with what they have been injected with, two years passed and they were brought back in and tested again to see if they have had aids. Below we will see the number of people that got aids in both of the groups.
 ### Graphical results
 <!--Display graphical evidence as to the effectiveness of the vaccine with explanations!-->
 ```{r}
