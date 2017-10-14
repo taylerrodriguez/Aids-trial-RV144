@@ -61,7 +61,7 @@ If the same number were correct, saying that the group had the same amount of pe
 colPerc(results)
 rowPerc(results)
 ```
-
+When the group of patients got split up and put into two different groups, the numbers on top show us after two years they got retested and in one groupd 40% of people with the vaccine got aids. In the other group that got the placebo about 60% of people got aids. So the vaccine seemed to be working for about 20% of these people, but like we will see in the later research the chances of us getting this number again will be 0.04%.
 
 
 
