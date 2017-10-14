@@ -72,8 +72,9 @@ When the group of patients got split up and put into two different groups, the n
 ```{r}
 chisqtestGC(results, graph = TRUE)
 ```
-
+The P-Value represents the effectiveness of the group, it represents our chances of getting the same number again, which is 0.04%, In the null, they put that the numbers should be exactly the same since nothing is going on, but because it is not the same they gave us a 0.04% chance that this would happen again. Now it is up to us to decide whether we should keep it or reject it. This result just happened to get into that 0.04%
 
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
+To summarize what we just seen, a large group of people got separated into two groups. One that got a placebo and another got an aids vaccination. The group that got the vaccine only 40% of these people got tested and came back positive for the aids virus. Now the poeple that got the placebo, 60% of them got tested and contracted the aids virus, but the chances of them coming back with these exact numbers came up to be 0.04% which to me isn't enough, but to a statistician it is enough. They had a major break through with these numbers because the numbers came back lower, the vaccine did work to a certain extent.
